@@ -3,7 +3,7 @@
     --secondaryText: #035124;
     --primary: rgba(5, 113, 50, 0.6);
     --secondary: rgba(76, 214, 241, 0.943); 
-    --buttonHover: rgba(20, 130, 104, 0.862);
+    --buttonHover: rgba(74, 211, 179, 0.862);
     --smallButtonHover: rgba(0, 0, 0, .25);
 }
     
@@ -35,7 +35,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: "Roboto", sans-serif;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
@@ -226,4 +226,4 @@ img {
     .slidedown {
         width: 40%;
     }
-}
+  }
